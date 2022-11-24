@@ -1,2 +1,2 @@
 # fitness-website
-a fitness website using css
+a fitness website using html and css
